@@ -1,0 +1,24 @@
+https://stackoverflow.com/questions/4174941/how-to-sort-a-list-of-lists-by-a-specific-index-of-the-inner-list/4174956#4174956
+
+https://stackoverflow.com/questions/10851445/splitting-a-string-by-list-of-indices
+
+https://www.geeksforgeeks.org/command-line-arguments-in-python/
+
+https://stackoverflow.com/questions/4233476/sort-a-list-by-multiple-attributes
+
+https://stackoverflow.com/questions/27745500/how-to-save-a-list-to-a-file-and-read-it-as-a-list-type
+
+https://www.w3schools.com/python/ref_file_readline.asp
+
+https://stackoverflow.com/questions/11989178/how-to-heapify-by-field-from-custom-objects
+
+https://stackoverflow.com/questions/44855064/python3-file-readline-eof
+
+https://stackoverflow.com/questions/45019304/what-value-does-readline-return-when-reaching-the-end-of-the-file-in-python
+
+lscpu
+
+./gensort -a 2000000 input.txt
+
+./valsort output.txt
+this requires ascending order sorting wrt 1st column and \r before newline (append "\r\n" at end of each line)
